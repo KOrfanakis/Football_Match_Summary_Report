@@ -175,5 +175,5 @@ def create_figure(match_id, fig, ax):
                    edgecolor=edgecolor)
 
     ### 08 - Legend - Credit ###
-    credit_text = 'Data: Understat | Orfanakis Konstantinos'
+    credit_text = 'Data: Understat | Konstantinos Orfanakis'
     ax.text(x=105, y=-14, s=credit_text, size=16, ha='right')
