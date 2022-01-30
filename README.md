@@ -15,7 +15,7 @@
 This repository contains Python code for:
 - Web scraping a football match from [Understat](https://understat.com/), and
 - Creating a figure that summarises that particular match.
-Specifically, the final figure displays various stats (e.g. goals, shots, shots on target, xG, etc.) on top of a shot map for both the home and the away teams.
+Specifically, the final figure displays various stats (e.g. goals, shots, shots on target, xG, etc.) on top of a shot map for both the home and away teams.
 
 For now, we are limited to matches from the English Premier League. 
 However, we can easily expand to other leagues by adding a few lines of code and including the crests for the additional teams in the designated folder. 
