@@ -1,11 +1,44 @@
 # Football Match Summary Report ⚽📈
 
 <p align="center">
-  <img src="Example_Image.png" width="1000" title="hover text">
+    <a href="https://nbviewer.org/github/KOrfanakis/Football_Match_Summary_Report/blob/main/Example_Notebook.ipynb">
+        <img alt="Render With" src="https://img.shields.io/badge/Render%20with-nbviewer-c0220d.svg">
+    </a>
+    <a href="https://www.python.org/">
+        <img alt="Made with" src="https://img.shields.io/badge/Made%20with-Python-blue.svg">
+    </a>
+    <a href="https://jupyter.org/try">
+        <img alt="Made with and" src="https://img.shields.io/badge/And%20-Jupyter-orange.svg">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="Licence" src="https://img.shields.io/badge/License-MIT-0298c3.svg">
+    </a>
+    <a>
+        <img alt="Star if useful" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=0aa619">
+    </a>
+    <br/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="Example_Image.png" width="800" title="hover text">
 </p>
 <p align="center">
   <em>Match report for the game between Chelsea and Liverpool that took place on the 2nd of January, 2022.</em>
 </p>
+
+<br>
+
+**Table of Contents**:
+
+<!--ts-->
+- [Overview](#overview)
+- [Code Organisation](#code-organisation)
+- [Requirements](#requirements)
+- [Acknowledgements](#acknowledgements)
+- [Extra Resources](#extra-resources)
+<!--te-->
 
 
 <br>
